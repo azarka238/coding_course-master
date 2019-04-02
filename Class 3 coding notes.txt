@@ -1,0 +1,67 @@
+to make something an id
+
+<h2 id="maintitle"> in html, in the h2 section
+
+h2#maintitle in CSS file
+
+
+<div class="paragraph1"> then the text.. 
+</div>   in html file
+
+div.paragraph1 
+
+
+you need to shift things in between the divs.. that's how you get levels deep for example all p tags (paragraphs)one level deep in the div would be "div>p"
+
+
+"em" is one size, if you want to double the size you say 2em
+
+In CSS:
+li{ font-size: 2em;
+
+
+# is for id attributes in html
+
+. is for class attributes in html
+
+
+for uniform headings around the page you can use id.. for random bits of text you can create divs around the text
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+User experience (UX) - about the psychology of the user
+User interface (UI) - about the aesthetics of the design
+
+
+need to ask how to get css onto atom
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

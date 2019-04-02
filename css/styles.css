@@ -1,0 +1,53 @@
+body {color: rgb(255,10,20);
+  font-family: Papyrus;
+  margin: 110px;
+  background-color: coral
+  }
+h1 {color : firebrick;
+  font-size: 5em}
+h1, h2, {text-align: center;}
+
+h2 {
+font-size: 2.5em;}
+div {min-height: 50vh;
+width: 100vw; }
+
+img {
+display: flex;
+padding: 20px;
+margin: 0 auto;
+border-radius: 130px;
+border-style: dotted;
+}
+p {
+width: 80%;
+margin: 10vh 10vw;
+font-size: 2em;
+text-align: center;
+}
+div contrast { display: flex;
+justify-content: center;
+align-items: center;
+flex-direction:  column;
+}
+
+ul {
+list-style: none;
+display: flex
+}
+
+a {
+color: purple);
+}
+ul li {color: firebrick;
+font-weight:  bold; }
+
+li {
+margin: 0 20px;
+transition: 0.8s ease;
+}
+
+li:hover {
+font-size: 1.2em;
+transition: 0.6s ease;
+}
